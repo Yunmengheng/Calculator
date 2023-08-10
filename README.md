@@ -4,7 +4,7 @@ This is a simple calculator program written in Python that can perform basic ari
 
 ## Usage
 
-step1: choose operation to perform
-step2: Enter first number
-step3: Enter second number
-step3: press enter to perform
+#step1: choose operation to perform
+#step2: Enter first number
+#step3: Enter second number
+#step3: press enter to perform
